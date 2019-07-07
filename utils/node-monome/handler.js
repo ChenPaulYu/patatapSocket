@@ -4,7 +4,7 @@ var mdns = require('mdns');
 
 var options = {
   // host to bind to for messages from serialosc
-  listenHost: 'https://paulyuchen.com/'
+  listenHost: '127.0.0.1'
 };
 
 // mdns browser
